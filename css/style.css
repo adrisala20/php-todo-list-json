@@ -1,0 +1,36 @@
+.as-debug {
+    border: 1px solid red;
+}
+/* general */
+header{
+    margin: 2rem;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body {
+    background-image: url(../bg.img.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+main{
+    opacity: 0.8;
+}
+
+.pointer {
+    cursor: pointer;
+}
+/* header */
+img {
+    width: 15%;
+    height: 50px;
+}
+/* main */
+h1{
+    margin-top: 90px;
+    font-weight: bolder;
+    color: black;
+
+}
